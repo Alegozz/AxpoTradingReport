@@ -6,7 +6,9 @@ Program execution:
 
 1- Set configuration values
 The user will be available to input the path where files will be created, as well as the interval (in minutes) in which the execution will be done.
-The log files will always be created on a output folder in the directory the solution is being executed
+The log files will always be created on a output folder in the directory the solution is being executed.
+
+Values can also be taken from app.config file
 
 2 -Set mode of execution
 The user can choose to execute the program in either automatic or manual mode
